@@ -52,7 +52,15 @@ There are four training scripts in this stage.
 
 # Final Stage
 
-The final stage contains the complete implementation of the pipeline and includes two approaches.
+The final stage contains the complete implementation of the pipeline and includes two approaches.\
+---------------------------------------------------------------------------------------------------
+Preprocessing & Multi-Architecture Training
+
+Uses data_cleaning2.ipynb for full dataset preprocessing/cleaning
+
+Uses selfies_featurization_one_hot.ipynb to generate SELFIES one-hot features
+
+Trains and compares multiple multitask model architectures using SELFIES_DC_multitask.py and SELFIES_multitask_tuner.ipynb
 
 ## A. Basic Code Without Clustering
 
@@ -107,4 +115,5 @@ This script generates the processed files required for:
 If this step is skipped, the remaining scripts will not run correctly because the required processed datasets will be missing.
 
 ---
+
 To link all models and stages together, a script called Code_auto is provided. This script integrates and coordinates the execution of all models across the different stages
