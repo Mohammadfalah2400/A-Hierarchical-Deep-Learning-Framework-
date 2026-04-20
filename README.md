@@ -2,7 +2,7 @@
 
 This repository contains the implementation and supporting materials for the work:
 
-**"Hierarchical Deep Learning for De Novo Molecular Structure Prediction from EI-MS Spectra"**
+**Hierarchical Deep Learning for De Novo Molecular Structure Prediction from EI-MS Spectra**
 
 This work was developed in collaboration with:
 
