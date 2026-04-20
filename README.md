@@ -11,7 +11,9 @@ This work was developed in collaboration with:
 - Marcin Pietrasik — Maastricht University  
 - John Mommers — Envalior, Engineering Materials  
 
-===========================================================================================================================================
+=================================================
+
+The research focuses on applying hierarchical deep learning methods to predict molecular structures directly from Electron Ionization Mass Spectrometry (EI-MS) spectra.
 This project implements a molecular structure prediction pipeline using multiple training strategies.  
 The workflow includes data preprocessing, model training, clustering, and evaluation.
 
