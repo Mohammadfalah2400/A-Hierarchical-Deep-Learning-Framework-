@@ -1,6 +1,18 @@
+## 📄 Project Overview
 
-## Overview
+This repository contains the implementation and supporting materials for the work:
 
+**"Hierarchical Deep Learning for De Novo Molecular Structure Prediction from EI-MS Spectra"**
+
+This work was developed in collaboration with:
+
+- Mohammad Falah — Maastricht University
+- Anna Wilbik — Maastricht University  
+- Marcin Pietrasik — Maastricht University  
+- John Mommers — Envalior, Engineering Materials  
+
+The research focuses on applying hierarchical deep learning methods to predict molecular structures directly from Electron Ionization Mass Spectrometry (EI-MS) spectra.
+===========================================================================================================================================
 This project implements a molecular structure prediction pipeline using multiple training strategies.  
 The workflow includes data preprocessing, model training, clustering, and evaluation.
 
